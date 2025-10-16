@@ -7,7 +7,7 @@ A modern, responsive React application for creating beautiful travel itineraries
 ![React](https://img.shields.io/badge/React-18.2.0-61dafb)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-#Deployed Link 🔗 
+## Deployed Link 🔗 
 https://travel-itinerary-generator-5gp3.vercel.app/
 
 ## ✨ Features
